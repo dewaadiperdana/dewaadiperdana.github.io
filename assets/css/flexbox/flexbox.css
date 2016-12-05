@@ -1,0 +1,12 @@
+.flexbox {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+}
+.flexbox .flex-50 {
+    width: 50%;
+}
+.flexbox .flex-33 {
+    width: 33%;
+}

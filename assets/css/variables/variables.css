@@ -1,0 +1,63 @@
+:root {
+    /* Font Faces
+    **********************************/
+    --font-poppins: "Poppins", sans-serif;
+    --font-josefin-sans: "Josefin Sans", sans-serif;
+    --font-raleway: "Raleway", sans-serif;
+
+    /* Font Colors
+    **********************************/
+    --font-color: #777777;
+
+    /* Basic Colors
+    **********************************/
+    --white: #ffffff;
+    --lighter-grey: #f1f1f1;
+    --light-grey: #c7c7c7;
+    --grey: #777777;
+    --darker-grey: #222222;
+
+    /* Custom Specific Colors
+    **********************************/
+    --html-orange: #f39c12;
+    --css-blue: #3498db;
+    --js-yellow: #f1c40f;
+    --php-purple: #9b59b6;
+
+    --rgb-html-orange: rgb(243, 156, 18);
+    --rgb-css-blue: rgb(52, 152, 219);
+    --rgb-js-yellow: rgb(241, 196, 15);
+    --rgb-php-purple: rgb(155, 89, 182);
+
+    /* RGB Colors
+    **********************************/
+    --rgb-white: rgb(255, 255, 255);
+    --rgb-light-grey: rgb(199, 199, 199);
+
+    /* RGBA Colors
+    **********************************/
+    --rgba-white: rgba(255, 255, 255, 1);
+    --rgba-white-nav-menu: rgba(255, 255, 255, 0.8);
+    --rgba-light-grey: rgba(0, 0, 0, 0.2);
+    --rgba-blue: rgba(41, 128, 185, 0.7);
+    --rgba-black: rgba(0, 0, 0, 0.7);
+
+    /* Color Schemes
+    **********************************/
+    --cs-dark-blue: #2c3e50;
+    --cs-light-dark-blue: #384e65;
+    --cs-lighter-dark-blue : #5f8fc2;
+    --cs-red: #e74c3c;
+    --cs-light-grey: #ecf0f1;
+    --cs-cyan: #3498db;
+    --cs-blue: #2980b9;
+
+    /* Color Schemes (RGBA)
+    **********************************/
+    --cs-rgba-dark-blue: rgba(44, 62, 80, 1);
+    --cs-rgba-light-dark-blue: rgba(56, 78, 101, 1);
+    --cs-rgba-red: rgba(231, 76, 60, 1);
+    --cs-rgba-light-grey: rgba(236, 240, 241, 1);
+    --cs-rgba-cyan: rgba(52, 152, 219, 1);
+    --cs-rgba-blue: rgba(41, 128, 185, 1);
+}
